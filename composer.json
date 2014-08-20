@@ -11,7 +11,7 @@
     "autoload": {
         "psr-4" : {
             "SyHolloway\\IpaDecimals\\" : "src/",
-            "SyHolloway\\IpaDecimals\\Tests" : "tests/"
+            "SyHolloway\\IpaDecimals\\Tests\\" : "tests/"
         }
     },
     "require": {
